@@ -89,7 +89,9 @@ a:hover {
 .form {
 	text-align: left;
 	width: 50%;
+	border: 20px solid black;
 	padding: 10px;
+	
 }
 
 .label {
@@ -111,6 +113,7 @@ input, textarea {
 	background: blue;
 	width: 80%;
 	margin: 150px;
+	
 }
 .container {
 	display: flex;
